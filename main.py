@@ -9,8 +9,8 @@ from pybit.unified_trading import HTTP
 TELEGRAM_BOT_TOKEN = "8956084355:AAHfH9cx52SwwKTErjl3MdNGvywWTcMTB6o"
 TELEGRAM_CHAT_ID = "762563666"
 
-BYBIT_API_KEY = "你的模拟盘API_KEY"      # 填入你的 API Key
-BYBIT_API_SECRET = "你的模拟盘API_SECRET"   # 填入你的 API Secret
+BYBIT_API_KEY = "Ge7JAa7NKuewYgtaym"      # 填入你的 API Key
+BYBIT_API_SECRET = "DYF02yESuuruGtosR0VbN9bBHaKLV7cXJdiF"   # 填入你的 API Secret
 
 # 我们想要监控的所有盈亏比档位
 TARGET_LEVELS = [1.0, 1.5, 2.0, 2.5, 3.0, 4.0, 5.0]
