@@ -6,7 +6,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 from pybit.unified_trading import HTTP
 
 # ==================== 配置区 ====================
-TELEGRAM_BOT_TOKEN = "8956084355:AAHfH9cx52SwwKTErjl3MdNGvywWTcMTB6o"
+TELEGRAM_BOT_TOKEN = "8956084355:AAHfH9cx52SwwKTErjI3MdNGvywWTcMTB6o"
 TELEGRAM_CHAT_ID = "762563666"
 
 BYBIT_API_KEY = "Ge7JAa7NKuewYgtaym"      # 填入你的 API Key
